@@ -45,7 +45,7 @@ let snippetArchiveTokens = {
       snippet.attributes.codeBlocks[0],
       prism.languages.javascript,
       'javascript'
-    );
+   
     return {
       id: snippet.id,
       type: 'snippetAnalysis',
